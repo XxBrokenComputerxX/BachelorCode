@@ -1,0 +1,261 @@
+Metric,Noise Type,Noise Intensity,Seed,Value
+Mean Precision,Gaussian,0.0,0,0.663869301
+Mean Recall,Gaussian,0.0,0,0.5269839312
+mAP@0.50,Gaussian,0.0,0,0.5682071662
+mAP@0.75,Gaussian,0.0,0,0.4242812757
+mAP@0.5:0.95,Gaussian,0.0,0,0.3991250608
+Mean Precision,Gaussian,2.5,0,0.6597532468
+Mean Precision,Gaussian,2.5,1,0.6599087167
+Mean Precision,Gaussian,2.5,2,0.6640792045
+Mean Precision,Gaussian,2.5,3,0.6622942796
+Mean Precision,Gaussian,2.5,4,0.6607802989
+Mean Precision,Gaussian,5.0,0,0.6546174761
+Mean Precision,Gaussian,5.0,1,0.659182649
+Mean Precision,Gaussian,5.0,2,0.659433214
+Mean Precision,Gaussian,5.0,3,0.6573617705
+Mean Precision,Gaussian,5.0,4,0.655306832
+Mean Precision,Gaussian,10.0,0,0.6553855104
+Mean Precision,Gaussian,10.0,1,0.6471585391
+Mean Precision,Gaussian,10.0,2,0.6432987249
+Mean Precision,Gaussian,10.0,3,0.6403523064
+Mean Precision,Gaussian,10.0,4,0.6421468145
+Mean Precision,Gaussian,15.0,0,0.6399856822
+Mean Precision,Gaussian,15.0,1,0.6428130534
+Mean Precision,Gaussian,15.0,2,0.6445757969
+Mean Precision,Gaussian,15.0,3,0.6313393512
+Mean Precision,Gaussian,15.0,4,0.6275669083
+Mean Precision,Gaussian,22.5,0,0.5997769764
+Mean Precision,Gaussian,22.5,1,0.593692884
+Mean Precision,Gaussian,22.5,2,0.5902274284
+Mean Precision,Gaussian,22.5,3,0.5993188692
+Mean Precision,Gaussian,22.5,4,0.5928634529
+Mean Recall,Gaussian,2.5,0,0.5229236152
+Mean Recall,Gaussian,2.5,1,0.5240314222
+Mean Recall,Gaussian,2.5,2,0.5225226484
+Mean Recall,Gaussian,2.5,3,0.5220860313
+Mean Recall,Gaussian,2.5,4,0.5235908697
+Mean Recall,Gaussian,5.0,0,0.5159901754
+Mean Recall,Gaussian,5.0,1,0.5131130935
+Mean Recall,Gaussian,5.0,2,0.5168871623
+Mean Recall,Gaussian,5.0,3,0.5163451774
+Mean Recall,Gaussian,5.0,4,0.5182411219
+Mean Recall,Gaussian,10.0,0,0.4913613953
+Mean Recall,Gaussian,10.0,1,0.4998594639
+Mean Recall,Gaussian,10.0,2,0.4922434111
+Mean Recall,Gaussian,10.0,3,0.4939508147
+Mean Recall,Gaussian,10.0,4,0.4934004447
+Mean Recall,Gaussian,15.0,0,0.4579029171
+Mean Recall,Gaussian,15.0,1,0.4626382511
+Mean Recall,Gaussian,15.0,2,0.4597260004
+Mean Recall,Gaussian,15.0,3,0.465747492
+Mean Recall,Gaussian,15.0,4,0.46668363
+Mean Recall,Gaussian,22.5,0,0.4173754304
+Mean Recall,Gaussian,22.5,1,0.4205999909
+Mean Recall,Gaussian,22.5,2,0.4172264557
+Mean Recall,Gaussian,22.5,3,0.4125662796
+Mean Recall,Gaussian,22.5,4,0.4158608642
+mAP@0.50,Gaussian,2.5,0,0.564626814
+mAP@0.50,Gaussian,2.5,1,0.5654666959
+mAP@0.50,Gaussian,2.5,2,0.5659190942
+mAP@0.50,Gaussian,2.5,3,0.5655664631
+mAP@0.50,Gaussian,2.5,4,0.5653415124
+mAP@0.50,Gaussian,5.0,0,0.557579398
+mAP@0.50,Gaussian,5.0,1,0.5581289414
+mAP@0.50,Gaussian,5.0,2,0.5587815564
+mAP@0.50,Gaussian,5.0,3,0.5595210091
+mAP@0.50,Gaussian,5.0,4,0.5575774601
+mAP@0.50,Gaussian,10.0,0,0.5363842339
+mAP@0.50,Gaussian,10.0,1,0.5369583753
+mAP@0.50,Gaussian,10.0,2,0.53469862
+mAP@0.50,Gaussian,10.0,3,0.5348763339
+mAP@0.50,Gaussian,10.0,4,0.5350160827
+mAP@0.50,Gaussian,15.0,0,0.5027318873
+mAP@0.50,Gaussian,15.0,1,0.5075479863
+mAP@0.50,Gaussian,15.0,2,0.5035230956
+mAP@0.50,Gaussian,15.0,3,0.5046525602
+mAP@0.50,Gaussian,15.0,4,0.504693979
+mAP@0.50,Gaussian,22.5,0,0.4517599186
+mAP@0.50,Gaussian,22.5,1,0.4524831283
+mAP@0.50,Gaussian,22.5,2,0.4516961825
+mAP@0.50,Gaussian,22.5,3,0.4492611836
+mAP@0.50,Gaussian,22.5,4,0.4497324375
+mAP@0.75,Gaussian,2.5,0,0.4211617617
+mAP@0.75,Gaussian,2.5,1,0.4214758286
+mAP@0.75,Gaussian,2.5,2,0.4220127426
+mAP@0.75,Gaussian,2.5,3,0.4219223854
+mAP@0.75,Gaussian,2.5,4,0.4222200651
+mAP@0.75,Gaussian,5.0,0,0.4153058631
+mAP@0.75,Gaussian,5.0,1,0.4149046678
+mAP@0.75,Gaussian,5.0,2,0.4185945072
+mAP@0.75,Gaussian,5.0,3,0.4150905164
+mAP@0.75,Gaussian,5.0,4,0.4156731437
+mAP@0.75,Gaussian,10.0,0,0.3914618595
+mAP@0.75,Gaussian,10.0,1,0.3950290202
+mAP@0.75,Gaussian,10.0,2,0.3916348431
+mAP@0.75,Gaussian,10.0,3,0.3920357351
+mAP@0.75,Gaussian,10.0,4,0.3941625354
+mAP@0.75,Gaussian,15.0,0,0.3662623712
+mAP@0.75,Gaussian,15.0,1,0.3657257465
+mAP@0.75,Gaussian,15.0,2,0.3664889583
+mAP@0.75,Gaussian,15.0,3,0.3648322852
+mAP@0.75,Gaussian,15.0,4,0.3655363352
+mAP@0.75,Gaussian,22.5,0,0.3181195638
+mAP@0.75,Gaussian,22.5,1,0.3199632428
+mAP@0.75,Gaussian,22.5,2,0.3201532871
+mAP@0.75,Gaussian,22.5,3,0.3210140168
+mAP@0.75,Gaussian,22.5,4,0.3193707823
+mAP@0.5:0.95,Gaussian,2.5,0,0.3961141791
+mAP@0.5:0.95,Gaussian,2.5,1,0.3967621109
+mAP@0.5:0.95,Gaussian,2.5,2,0.3973244567
+mAP@0.5:0.95,Gaussian,2.5,3,0.3970979854
+mAP@0.5:0.95,Gaussian,2.5,4,0.3971953123
+mAP@0.5:0.95,Gaussian,5.0,0,0.3902364059
+mAP@0.5:0.95,Gaussian,5.0,1,0.3910404239
+mAP@0.5:0.95,Gaussian,5.0,2,0.3929551611
+mAP@0.5:0.95,Gaussian,5.0,3,0.3912738122
+mAP@0.5:0.95,Gaussian,5.0,4,0.3912995101
+mAP@0.5:0.95,Gaussian,10.0,0,0.3725653638
+mAP@0.5:0.95,Gaussian,10.0,1,0.3732647213
+mAP@0.5:0.95,Gaussian,10.0,2,0.3716424664
+mAP@0.5:0.95,Gaussian,10.0,3,0.3718602542
+mAP@0.5:0.95,Gaussian,10.0,4,0.3724922617
+mAP@0.5:0.95,Gaussian,15.0,0,0.3465598003
+mAP@0.5:0.95,Gaussian,15.0,1,0.348647015
+mAP@0.5:0.95,Gaussian,15.0,2,0.3470787778
+mAP@0.5:0.95,Gaussian,15.0,3,0.3469234538
+mAP@0.5:0.95,Gaussian,15.0,4,0.3476414231
+mAP@0.5:0.95,Gaussian,22.5,0,0.304792104
+mAP@0.5:0.95,Gaussian,22.5,1,0.3046217868
+mAP@0.5:0.95,Gaussian,22.5,2,0.304991198
+mAP@0.5:0.95,Gaussian,22.5,3,0.3043316988
+mAP@0.5:0.95,Gaussian,22.5,4,0.3041283695
+Mean Precision,Salt-And-Pepper,0.0,0,0.663869301
+Mean Recall,Salt-And-Pepper,0.0,0,0.5269839312
+mAP@0.50,Salt-And-Pepper,0.0,0,0.5682071662
+mAP@0.75,Salt-And-Pepper,0.0,0,0.4242812757
+mAP@0.5:0.95,Salt-And-Pepper,0.0,0,0.3991250608
+Mean Precision,Salt-And-Pepper,0.03,0,0.5496753906
+Mean Precision,Salt-And-Pepper,0.03,1,0.5531432222
+Mean Precision,Salt-And-Pepper,0.03,2,0.5546695413
+Mean Precision,Salt-And-Pepper,0.03,3,0.5643881199
+Mean Precision,Salt-And-Pepper,0.03,4,0.5353361873
+Mean Precision,Salt-And-Pepper,0.06,0,0.4929329702
+Mean Precision,Salt-And-Pepper,0.06,1,0.4836102153
+Mean Precision,Salt-And-Pepper,0.06,2,0.4995247861
+Mean Precision,Salt-And-Pepper,0.06,3,0.5038613893
+Mean Precision,Salt-And-Pepper,0.06,4,0.5032821133
+Mean Precision,Salt-And-Pepper,0.12,0,0.4281097594
+Mean Precision,Salt-And-Pepper,0.12,1,0.4277650439
+Mean Precision,Salt-And-Pepper,0.12,2,0.4171640769
+Mean Precision,Salt-And-Pepper,0.12,3,0.4127724426
+Mean Precision,Salt-And-Pepper,0.12,4,0.410946439
+Mean Precision,Salt-And-Pepper,0.18,0,0.3608345504
+Mean Precision,Salt-And-Pepper,0.18,1,0.3424746767
+Mean Precision,Salt-And-Pepper,0.18,2,0.3552150034
+Mean Precision,Salt-And-Pepper,0.18,3,0.3445771383
+Mean Precision,Salt-And-Pepper,0.18,4,0.3446192254
+Mean Precision,Salt-And-Pepper,0.27,0,0.3081047898
+Mean Precision,Salt-And-Pepper,0.27,1,0.2783601571
+Mean Precision,Salt-And-Pepper,0.27,2,0.2837536533
+Mean Precision,Salt-And-Pepper,0.27,3,0.2945890843
+Mean Precision,Salt-And-Pepper,0.27,4,0.2771261833
+Mean Recall,Salt-And-Pepper,0.03,0,0.3899071193
+Mean Recall,Salt-And-Pepper,0.03,1,0.3868397782
+Mean Recall,Salt-And-Pepper,0.03,2,0.3833006224
+Mean Recall,Salt-And-Pepper,0.03,3,0.3788062849
+Mean Recall,Salt-And-Pepper,0.03,4,0.3894751027
+Mean Recall,Salt-And-Pepper,0.06,0,0.3108461351
+Mean Recall,Salt-And-Pepper,0.06,1,0.3082161708
+Mean Recall,Salt-And-Pepper,0.06,2,0.3130307545
+Mean Recall,Salt-And-Pepper,0.06,3,0.3096871023
+Mean Recall,Salt-And-Pepper,0.06,4,0.3038327861
+Mean Recall,Salt-And-Pepper,0.12,0,0.2103858684
+Mean Recall,Salt-And-Pepper,0.12,1,0.2060893049
+Mean Recall,Salt-And-Pepper,0.12,2,0.2103814586
+Mean Recall,Salt-And-Pepper,0.12,3,0.207380014
+Mean Recall,Salt-And-Pepper,0.12,4,0.208636614
+Mean Recall,Salt-And-Pepper,0.18,0,0.1408434375
+Mean Recall,Salt-And-Pepper,0.18,1,0.1446159468
+Mean Recall,Salt-And-Pepper,0.18,2,0.1406011027
+Mean Recall,Salt-And-Pepper,0.18,3,0.1406774801
+Mean Recall,Salt-And-Pepper,0.18,4,0.1417302795
+Mean Recall,Salt-And-Pepper,0.27,0,0.0734225441
+Mean Recall,Salt-And-Pepper,0.27,1,0.0732214438
+Mean Recall,Salt-And-Pepper,0.27,2,0.0710963662
+Mean Recall,Salt-And-Pepper,0.27,3,0.0722780166
+Mean Recall,Salt-And-Pepper,0.27,4,0.0719329353
+mAP@0.50,Salt-And-Pepper,0.03,0,0.4058776088
+mAP@0.50,Salt-And-Pepper,0.03,1,0.406814111
+mAP@0.50,Salt-And-Pepper,0.03,2,0.4058543587
+mAP@0.50,Salt-And-Pepper,0.03,3,0.40534504
+mAP@0.50,Salt-And-Pepper,0.03,4,0.4047696722
+mAP@0.50,Salt-And-Pepper,0.06,0,0.3183843228
+mAP@0.50,Salt-And-Pepper,0.06,1,0.3172367437
+mAP@0.50,Salt-And-Pepper,0.06,2,0.319080038
+mAP@0.50,Salt-And-Pepper,0.06,3,0.3178425962
+mAP@0.50,Salt-And-Pepper,0.06,4,0.3188107138
+mAP@0.50,Salt-And-Pepper,0.12,0,0.2093833008
+mAP@0.50,Salt-And-Pepper,0.12,1,0.2067828551
+mAP@0.50,Salt-And-Pepper,0.12,2,0.2066506216
+mAP@0.50,Salt-And-Pepper,0.12,3,0.2048054781
+mAP@0.50,Salt-And-Pepper,0.12,4,0.2047179691
+mAP@0.50,Salt-And-Pepper,0.18,0,0.1336499948
+mAP@0.50,Salt-And-Pepper,0.18,1,0.1314583761
+mAP@0.50,Salt-And-Pepper,0.18,2,0.132718947
+mAP@0.50,Salt-And-Pepper,0.18,3,0.1310702196
+mAP@0.50,Salt-And-Pepper,0.18,4,0.132261201
+mAP@0.50,Salt-And-Pepper,0.27,0,0.0649140965
+mAP@0.50,Salt-And-Pepper,0.27,1,0.0655755617
+mAP@0.50,Salt-And-Pepper,0.27,2,0.065403483
+mAP@0.50,Salt-And-Pepper,0.27,3,0.067031272
+mAP@0.50,Salt-And-Pepper,0.27,4,0.0639118887
+mAP@0.75,Salt-And-Pepper,0.03,0,0.2820792081
+mAP@0.75,Salt-And-Pepper,0.03,1,0.2836403068
+mAP@0.75,Salt-And-Pepper,0.03,2,0.2839068213
+mAP@0.75,Salt-And-Pepper,0.03,3,0.2844423798
+mAP@0.75,Salt-And-Pepper,0.03,4,0.2836197487
+mAP@0.75,Salt-And-Pepper,0.06,0,0.2162468626
+mAP@0.75,Salt-And-Pepper,0.06,1,0.2169158828
+mAP@0.75,Salt-And-Pepper,0.06,2,0.2172781357
+mAP@0.75,Salt-And-Pepper,0.06,3,0.2164816111
+mAP@0.75,Salt-And-Pepper,0.06,4,0.2173815903
+mAP@0.75,Salt-And-Pepper,0.12,0,0.1357533459
+mAP@0.75,Salt-And-Pepper,0.12,1,0.1316816575
+mAP@0.75,Salt-And-Pepper,0.12,2,0.1334961577
+mAP@0.75,Salt-And-Pepper,0.12,3,0.13243474
+mAP@0.75,Salt-And-Pepper,0.12,4,0.1312779439
+mAP@0.75,Salt-And-Pepper,0.18,0,0.0829335582
+mAP@0.75,Salt-And-Pepper,0.18,1,0.0812493375
+mAP@0.75,Salt-And-Pepper,0.18,2,0.0822336112
+mAP@0.75,Salt-And-Pepper,0.18,3,0.0819079158
+mAP@0.75,Salt-And-Pepper,0.18,4,0.0825685318
+mAP@0.75,Salt-And-Pepper,0.27,0,0.0393848404
+mAP@0.75,Salt-And-Pepper,0.27,1,0.0402959075
+mAP@0.75,Salt-And-Pepper,0.27,2,0.0407951894
+mAP@0.75,Salt-And-Pepper,0.27,3,0.0409721971
+mAP@0.75,Salt-And-Pepper,0.27,4,0.0391472228
+mAP@0.5:0.95,Salt-And-Pepper,0.03,0,0.2712136307
+mAP@0.5:0.95,Salt-And-Pepper,0.03,1,0.272713403
+mAP@0.5:0.95,Salt-And-Pepper,0.03,2,0.2726556928
+mAP@0.5:0.95,Salt-And-Pepper,0.03,3,0.2718661401
+mAP@0.5:0.95,Salt-And-Pepper,0.03,4,0.2720740148
+mAP@0.5:0.95,Salt-And-Pepper,0.06,0,0.2085681225
+mAP@0.5:0.95,Salt-And-Pepper,0.06,1,0.2091838413
+mAP@0.5:0.95,Salt-And-Pepper,0.06,2,0.2096294757
+mAP@0.5:0.95,Salt-And-Pepper,0.06,3,0.2088078172
+mAP@0.5:0.95,Salt-And-Pepper,0.06,4,0.209835132
+mAP@0.5:0.95,Salt-And-Pepper,0.12,0,0.1327967609
+mAP@0.5:0.95,Salt-And-Pepper,0.12,1,0.129946268
+mAP@0.5:0.95,Salt-And-Pepper,0.12,2,0.1313548707
+mAP@0.5:0.95,Salt-And-Pepper,0.12,3,0.1292694308
+mAP@0.5:0.95,Salt-And-Pepper,0.12,4,0.129041015
+mAP@0.5:0.95,Salt-And-Pepper,0.18,0,0.0825415096
+mAP@0.5:0.95,Salt-And-Pepper,0.18,1,0.0809715603
+mAP@0.5:0.95,Salt-And-Pepper,0.18,2,0.0818277507
+mAP@0.5:0.95,Salt-And-Pepper,0.18,3,0.081158793
+mAP@0.5:0.95,Salt-And-Pepper,0.18,4,0.0817774934
+mAP@0.5:0.95,Salt-And-Pepper,0.27,0,0.0393619969
+mAP@0.5:0.95,Salt-And-Pepper,0.27,1,0.0403264686
+mAP@0.5:0.95,Salt-And-Pepper,0.27,2,0.0403698345
+mAP@0.5:0.95,Salt-And-Pepper,0.27,3,0.0408972664
+mAP@0.5:0.95,Salt-And-Pepper,0.27,4,0.0391943395

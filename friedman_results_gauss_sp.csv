@@ -1,0 +1,11 @@
+Noise Type,Metric,Friedman Statistic,p-value
+Gaussian,Mean Precision,18.56,0.000959
+Gaussian,Mean Recall,20.0,0.000499
+Gaussian,mAP@0.50,20.0,0.000499
+Gaussian,mAP@0.75,20.0,0.000499
+Gaussian,mAP@0.5:0.95,20.0,0.000499
+Salt-And-Pepper,Mean Precision,20.0,0.000499
+Salt-And-Pepper,Mean Recall,20.0,0.000499
+Salt-And-Pepper,mAP@0.50,20.0,0.000499
+Salt-And-Pepper,mAP@0.75,20.0,0.000499
+Salt-And-Pepper,mAP@0.5:0.95,20.0,0.000499

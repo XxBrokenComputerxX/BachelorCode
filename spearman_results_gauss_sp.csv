@@ -1,0 +1,11 @@
+Noise Type,Metric,Spearman Correlation (rho),p-value,Trend
+Gaussian,Mean Precision,-1.0,0.0,decreasing
+Gaussian,Mean Recall,-1.0,0.0,decreasing
+Gaussian,mAP@0.50,-1.0,0.0,decreasing
+Gaussian,mAP@0.75,-1.0,0.0,decreasing
+Gaussian,mAP@0.5:0.95,-1.0,0.0,decreasing
+Salt-And-Pepper,Mean Precision,-1.0,0.0,decreasing
+Salt-And-Pepper,Mean Recall,-1.0,0.0,decreasing
+Salt-And-Pepper,mAP@0.50,-1.0,0.0,decreasing
+Salt-And-Pepper,mAP@0.75,-1.0,0.0,decreasing
+Salt-And-Pepper,mAP@0.5:0.95,-1.0,0.0,decreasing

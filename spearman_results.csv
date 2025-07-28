@@ -1,0 +1,26 @@
+Brightness,Metric,Spearman Correlation (rho),p-value,Trend
+0.1,Mean Precision,-1.0,0.0,decreasing
+0.1,Mean Recall,-1.0,0.0,decreasing
+0.1,mAP@0.50,-1.0,0.0,decreasing
+0.1,mAP@0.75,-1.0,0.0,decreasing
+0.1,mAP@0.5:0.95,-1.0,0.0,decreasing
+0.2,Mean Precision,-1.0,0.0,decreasing
+0.2,Mean Recall,-1.0,0.0,decreasing
+0.2,mAP@0.50,-1.0,0.0,decreasing
+0.2,mAP@0.75,-1.0,0.0,decreasing
+0.2,mAP@0.5:0.95,-1.0,0.0,decreasing
+0.4,Mean Precision,-1.0,0.0,decreasing
+0.4,Mean Recall,-1.0,0.0,decreasing
+0.4,mAP@0.50,-1.0,0.0,decreasing
+0.4,mAP@0.75,-1.0,0.0,decreasing
+0.4,mAP@0.5:0.95,-1.0,0.0,decreasing
+0.6,Mean Precision,-1.0,0.0,decreasing
+0.6,Mean Recall,-1.0,0.0,decreasing
+0.6,mAP@0.50,-1.0,0.0,decreasing
+0.6,mAP@0.75,-1.0,0.0,decreasing
+0.6,mAP@0.5:0.95,-1.0,0.0,decreasing
+0.8,Mean Precision,-1.0,0.0,decreasing
+0.8,Mean Recall,-1.0,0.0,decreasing
+0.8,mAP@0.50,-1.0,0.0,decreasing
+0.8,mAP@0.75,-1.0,0.0,decreasing
+0.8,mAP@0.5:0.95,-1.0,0.0,decreasing
