@@ -1,0 +1,36 @@
+Metric,Noise Type,Noise Level,CV [%]
+mAP@0.5:0.95,AWGN,level_1,0.109
+mAP@0.5:0.95,AWGN,level_2,0.226
+mAP@0.5:0.95,AWGN,level_3,0.154
+mAP@0.5:0.95,AWGN,level_4,0.209
+mAP@0.5:0.95,AWGN,level_5,0.102
+mAP@0.5:0.95,Salz-und-Pfeffer Rauschen,level_1,0.203
+mAP@0.5:0.95,Salz-und-Pfeffer Rauschen,level_2,0.228
+mAP@0.5:0.95,Salz-und-Pfeffer Rauschen,level_3,1.081
+mAP@0.5:0.95,Salz-und-Pfeffer Rauschen,level_4,0.681
+mAP@0.5:0.95,Salz-und-Pfeffer Rauschen,level_5,1.619
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_1/gaussian_1,0.211
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_1/gaussian_2,0.135
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_1/gaussian_3,0.128
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_1/gaussian_4,0.293
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_1/gaussian_5,0.368
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_2/gaussian_1,0.218
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_2/gaussian_2,0.182
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_2/gaussian_3,0.181
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_2/gaussian_4,0.274
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_2/gaussian_5,0.348
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_3/gaussian_1,0.131
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_3/gaussian_2,0.15
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_3/gaussian_3,0.361
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_3/gaussian_4,0.302
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_3/gaussian_5,0.448
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_4/gaussian_1,0.215
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_4/gaussian_2,0.278
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_4/gaussian_3,0.534
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_4/gaussian_4,1.178
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_4/gaussian_5,0.937
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_5/gaussian_1,0.429
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_5/gaussian_2,0.633
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_5/gaussian_3,1.522
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_5/gaussian_4,6.536
+mAP@0.5:0.95,Poisson-Gaußschem Rauschen,brightness_5/gaussian_5,14.282
