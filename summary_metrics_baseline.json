@@ -1,0 +1,22 @@
+[
+  {
+    "Metric":"Mean Precision",
+    "Value":0.663869301
+  },
+  {
+    "Metric":"Mean Recall",
+    "Value":0.5269839312
+  },
+  {
+    "Metric":"mAP@0.50",
+    "Value":0.5682071662
+  },
+  {
+    "Metric":"mAP@0.75",
+    "Value":0.4242812757
+  },
+  {
+    "Metric":"mAP@0.5:0.95",
+    "Value":0.3991250608
+  }
+]
